@@ -6,7 +6,7 @@
 🏋 **HOBBIES AND FREE TIME:**
 - Building personal portfolio to enhance my coding skills - currently working on full stack web project "GameFlix" - online videogames database. Using Python, MSSQL and IGDB API for backend and React for frontend.
 - Daily working out with weights.
-- Recently I am trying to read more, interested mostly in mental improvement books (really like J. B. Peterson), psychological novels (Dostoyevsky) but also fiction like A Song of Ice and Fire by G.R.R. Martin.
+- Recently I have been trying to read more, interested mostly in mental improvement books (really like J. B. Peterson), psychological novels (Dostoyevsky) but also fiction like A Song of Ice and Fire by G.R.R. Martin.
 
 📞 **CONTACT:**
 * *email:* gabourban114@gmail.com
