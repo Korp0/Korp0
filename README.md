@@ -9,5 +9,5 @@
 - Recently I am trying to read more, interested mostly in mental improvement books (really like J. B. Peterson), psychological novels (Dostoyevsky) but also fiction like A Song of Ice and Fire by G.R.R. Martin.
 
 📞 **CONTACT:**
-- * *email:* gabourban114@gmail.com
-- * *LinkedIn:* https://www.linkedin.com/in/gabriel-urban-912319274/
+* *email:* gabourban114@gmail.com
+* *LinkedIn:* https://www.linkedin.com/in/gabriel-urban-912319274/
