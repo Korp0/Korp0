@@ -1,16 +1,13 @@
-### Hi there 👋
+💻 CAREER:
+- I am currently working as a backend web developer and software tester, where I mostly design/operate with database and transform its data needed for further usage in graphic visualisations or calculations. Mostly using technologies like: Python, FastAPI, MSSQL and Pytest.
+- IT student at Technical University of Kosice.
+- Very solid background in: C, Java. Decent knowledge in: SQL databases, web development (HTML, CSS, Sass, JavaScript, React, Python), Android development (Java), unit testing.
 
-<!--
-**Korp0/Korp0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏋 HOBBIES AND FREE TIME:
+- Building personal portfolio to enhance my coding skills - currently working on full stack web project "GameFlix" - online videogames database. Using Python, MSSQL and IGDB API for backend and React for frontend.
+- Daily working out with weights.
+- Recently I am trying to read more, interested mostly in mental improvement books (really like J. B. Peterson), psychological novels (Dostoyevsky) but also fiction like A Song of Ice and Fire by G.R.R. Martin
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📞 CONTACT:
+- email: gabourban114@gmail.com
+- LinkedIn: https://www.linkedin.com/in/gabriel-urban-912319274/
