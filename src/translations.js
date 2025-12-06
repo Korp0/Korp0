@@ -4,7 +4,7 @@ export const translations = {
       name: "Gabriel Urban",
       subtitle: "Full-Stack Developer & AI Integrator",
       experience: "4+ years experience · Focused on modern web & AI · FEI TUKE",
-      cta: "View My Work",
+      cta: "Showcases",
     },
     about: {
       title: "About Me",
@@ -92,7 +92,7 @@ export const translations = {
       name: "Gabriel Urban",
       subtitle: "Full-Stack vývojár & AI Integrátor",
       experience: "4+ rokov skúseností · Zameranie na moderný web & AI · FEI TUKE",
-      cta: "Pozri si moje práce",
+      cta: "Ukážky",
     },
     about: {
       title: "O mne",
