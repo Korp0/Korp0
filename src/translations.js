@@ -10,7 +10,7 @@ export const translations = {
       title: "About Me",
       points: [
         "Computer science student with 4 years of full-stack development experience",
-        "Building modern applications across web (React), mobile (React Native), and desktop (.NET)",
+        "Building modern systems across web (React), mobile (React Native), and desktop (.NET) applications",
         "Specializing in advanced AI integrations",
         "Passionate about LLM, AI agents, RAG, and creating intelligent, scalable solutions for businesses"
       ],
@@ -98,7 +98,7 @@ export const translations = {
       title: "O mne",
       points: [
         "Študent informatiky so 4 rokmi skúseností ako full-stack vývojár",
-        "Vytváram moderné aplikácie v oblasti web (React), mobilných (React Native) a desktopových (.NET)",
+        "Vytváram moderné systémy v oblasti web (React), mobilných (React Native) a desktopových (.NET) aplikácií",
         "Špecializujem sa na pokročilé AI integrácie",
         "Vášeň pre LLM, AI agentov, RAG a vytváranie inteligentných, škálovateľných riešení"
       ],
