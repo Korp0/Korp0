@@ -1,5 +1,6 @@
 import { useLanguage } from "../contexts/LanguageContext";
 import { useScrollAnimation } from "../hooks/useScrollAnimation";
+import { highlightKeywords } from "../utils/highlightKeywords";
 
 export default function About() {
   const { t } = useLanguage();
@@ -26,7 +27,7 @@ export default function About() {
             {t.about.points.map((point, index) => (
               <li key={index} className="flex gap-3">
                 <span className="text-slate-900 font-bold flex-shrink-0">•</span>
-                <span>{point}</span>
+                <span>{highlightKeywords(point)}</span>
               </li>
             ))}
           </ul>

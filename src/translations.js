@@ -3,15 +3,15 @@ export const translations = {
     hero: {
       name: "Gabriel Urban",
       subtitle: "Full-Stack Developer & AI Integrator",
-      experience: "4+ years experience · FEI TUKE · Building my portfolio",
+      experience: "4+ years experience · Focused on modern web & AI · FEI TUKE",
       cta: "View My Work",
     },
     about: {
       title: "About Me",
       points: [
-        "23-year-old FEI TUKE student with 4 years of full-stack development experience",
-        "Build modern applications across web (React), mobile (React Native), and desktop (.NET)",
-        "Specialize in backend development with FastAPI and advanced AI integrations",
+        "23-year-old computer science student with 4 years of full-stack development experience",
+        "Building modern applications across web (React), mobile (React Native), and desktop (.NET)",
+        "Specializing in advanced AI integrations",
         "Passionate about LLM, AI agents, RAG, and creating intelligent, scalable solutions for businesses"
       ],
     },
@@ -91,15 +91,15 @@ export const translations = {
     hero: {
       name: "Gabriel Urban",
       subtitle: "Full-Stack vývojár & AI Integrátor",
-      experience: "4+ rokov skúseností · FEI TUKE · Budujem svoje portfólio",
+      experience: "4+ rokov skúseností · Zameranie na moderný web & AI · FEI TUKE",
       cta: "Pozri si moje práce",
     },
     about: {
       title: "O mne",
       points: [
-        "23-ročný študent FEI TUKE s 4 rokmi skúseností ako full-stack vývojár",
+        "23-ročný študent informatiky so 4 rokmi skúseností ako full-stack vývojár",
         "Vytváram moderné aplikácie v oblasti web (React), mobilných (React Native) a desktopových (.NET)",
-        "Špecializujem sa na backend vývoj s FastAPI a pokročilými AI integráciami",
+        "Špecializujem sa na pokročilé AI integrácie",
         "Vášeň pre LLM, AI agentov, RAG a vytváranie inteligentných, škálovateľných riešení"
       ],
     },

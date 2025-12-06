@@ -5,6 +5,7 @@ import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import LanguageSwitcher from './components/LanguageSwitcher';
+import ScrollToTop from './components/ScrollToTop';
 import { LanguageProvider } from './contexts/LanguageContext';
 import './App.css';
 
@@ -19,6 +20,7 @@ function App() {
         <Projects />
         <Contact />
         <Footer />
+        <ScrollToTop />
       </div>
     </LanguageProvider>
   );
