@@ -12,7 +12,7 @@ export const translations = {
         "Computer science student with 4 years of full-stack development experience",
         "Building modern systems across web (React), mobile (React Native), and desktop (.NET) applications",
         "Specializing in advanced AI integrations",
-        "Passionate about LLM, AI agents, RAG, and creating intelligent, scalable solutions for businesses"
+        "Passionate about LLM, AI agents, RAG, and creating intelligent, scalable solutions for businesses",
       ],
     },
     skills: {
@@ -41,7 +41,7 @@ export const translations = {
         description: [
           "Remote desktop control application for Windows",
           "Control multiple computers across a network",
-          "Built with .NET and Avalonia UI"
+          "Built with .NET and Avalonia UI",
         ],
         image: "/images/ugcon.png",
         demo: null,
@@ -53,7 +53,7 @@ export const translations = {
         description: [
           "Modern salon management and booking website",
           "User-friendly interface for salon clients",
-          "Built with React, TypeScript, and Tailwind CSS"
+          "Built with React, TypeScript, and Tailwind CSS",
         ],
         image: "/images/nails-studio.png",
         demo: "https://nails-demo.vercel.app/",
@@ -65,11 +65,11 @@ export const translations = {
         description: [
           "AI-powered barbershop website with intelligent chatbot",
           "LLM and AI agents for responses, bookings, RAG, and automation",
-          "Built with React, FastAPI, and LangGraph"
+          "Built with React, FastAPI, and LangGraph",
         ],
         image: "/images/barber.png",
-        demo: null,
-        code: null,
+        demo: "https://smart-barbershop.vercel.app/",
+        code: "https://github.com/Korp0/SmartBarbershop",
         type: "Web",
       },
       viewCode: "View Code",
@@ -84,14 +84,15 @@ export const translations = {
       button: "Get In Touch",
     },
     footer: {
-      note: "© 2025 Gabriel Urban"
+      note: "© 2025 Gabriel Urban",
     },
   },
   sk: {
     hero: {
       name: "Gabriel Urban",
       subtitle: "Full-Stack vývojár & AI Integrátor",
-      experience: "4+ rokov skúseností · Zameranie na moderný web & AI · FEI TUKE",
+      experience:
+        "4+ rokov skúseností · Zameranie na moderný web & AI · FEI TUKE",
       cta: "Ukážky",
     },
     about: {
@@ -100,7 +101,7 @@ export const translations = {
         "Študent informatiky so 4 rokmi skúseností ako full-stack vývojár",
         "Vytváram moderné systémy v oblasti web (React), mobilných (React Native) a desktopových (.NET) aplikácií",
         "Špecializujem sa na pokročilé AI integrácie",
-        "Vášeň pre LLM, AI agentov, RAG a vytváranie inteligentných, škálovateľných riešení"
+        "Vášeň pre LLM, AI agentov, RAG a vytváranie inteligentných, škálovateľných riešení",
       ],
     },
     skills: {
@@ -129,7 +130,7 @@ export const translations = {
         description: [
           "Aplikácia na vzdialené ovládanie počítačov pre Windows",
           "Umožňuje používateľom ovládať viac počítačov v sieti",
-          "Vybudované s .NET a Avalonia UI"
+          "Vybudované s .NET a Avalonia UI",
         ],
         image: "/images/ugcon.png",
         demo: null,
@@ -141,7 +142,7 @@ export const translations = {
         description: [
           "Moderný web na správu rezervácií a informácií",
           "Jednoduchý interface pre klientov salónu",
-          "Vybudované s React, TypeScript a Tailwind CSS"
+          "Vybudované s React, TypeScript a Tailwind CSS",
         ],
         image: "/images/nails-studio.png",
         demo: "https://nails-demo.vercel.app/",
@@ -153,11 +154,11 @@ export const translations = {
         description: [
           "Webová stránka holičstva s inteligentným chatbotom",
           "LLM a AI agenti na odpovede, rezervácie, RAG a automatizáciu",
-          "Vybudované s React, FastAPI a LangGraph"
+          "Vybudované s React, FastAPI a LangGraph",
         ],
         image: "/images/barber.png",
-        demo: null,
-        code: null,
+        demo: "https://smart-barbershop.vercel.app/",
+        code: "https://github.com/Korp0/SmartBarbershop",
         type: "Web",
       },
       viewCode: "GitHub",
@@ -172,7 +173,7 @@ export const translations = {
       button: "Kontaktuj ma",
     },
     footer: {
-      note: "© 2025 Gabriel Urban"
+      note: "© 2025 Gabriel Urban",
     },
   },
 };
